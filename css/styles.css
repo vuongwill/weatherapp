@@ -3,16 +3,19 @@
 }
 
 body {
-    font-size: 1rem;
+    font-size: 1.1rem;
     font-family: 'Merriweather', serif;
     text-align: center;
-    background-color: lightskyblue;
+    background-color: rgba(145, 204, 241,.3);
     color: rgb(37, 36, 36);
 }
 
 input {
     background-color: lightgoldenrodyellow;
-    border: 2px solid black;
+    border: 2px solid lightslategray;
     border-radius: 5px;
     font-size: 1.2rem;
+}
+button {
+    font-size: 1rem;
 }
