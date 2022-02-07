@@ -1,3 +1,3 @@
 # weatherapp
 
-live demo: https://willvxd.github.io/weatherapp/
+live demo: https://vuongwill.github.io/weatherapp/
