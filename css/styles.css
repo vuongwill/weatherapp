@@ -3,6 +3,8 @@
 }
 
 body {
+    background-image: url(../img/cloud.jpg);
+    background-size: cover;
     font-size: 1.1rem;
     font-family: 'Merriweather', serif;
     text-align: center;
